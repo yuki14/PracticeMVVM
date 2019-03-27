@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeMVVM</string>
+
+    <string name="vocabulary_nineth">Fantastic!</string>
+    <string name="vocabulary_tenth">Allons-y!</string>
+    <string name="vocabulary_eleventh">Geronimo!</string>
+    <string name="see_other_habitual_saying">他の口癖を確認</string>
+
+</resources>
